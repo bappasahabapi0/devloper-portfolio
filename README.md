@@ -1,7 +1,7 @@
 # devloper-portfolio
 This is my first portfolio
-live link:https://bappasahabapi.github.io/devloper-portfolio/
- Here is my first html and css based portfolio
+-live link:https://bappasahabapi.github.io/devloper-portfolio/
+- Here is my first html and css based portfolio
         inspired by Jhankar Mahamud vai.
 
        The portfolio has for section.
