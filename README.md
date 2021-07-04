@@ -1,5 +1,6 @@
 # devloper-portfolio
 This is my first portfolio
+live link:https://bappasahabapi.github.io/devloper-portfolio/
  Here is my first html and css based portfolio
         inspired by Jhankar Mahamud vai.
 
@@ -13,3 +14,12 @@ This is my first portfolio
                 <div>
                     for an image
                 </div>
+                
+       2. section for dream big. 
+       it is just opposite to welcome section. 
+
+       3. section for experience 
+       -- here we have theree parts
+       one for heading
+       two divs for web devloper.
+       -----------------------------  happy coding :) -------------------
