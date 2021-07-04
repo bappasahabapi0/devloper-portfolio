@@ -54,6 +54,7 @@ a{
     
 }
 .experience-section {
+    height: 80%;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     /* background-position:10px left; */
