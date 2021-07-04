@@ -13,12 +13,16 @@ p{
 span{
     color: orange;
 }
-section{
+
+.flexiable-section{
    
     display: flex;
-    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     /* background-color: plum; */
+}
+.bg-top-banner{
+    background-image: url(images/top-banner.png);
+
 }
 .half-width{
     margin-left: 40px;
@@ -40,12 +44,35 @@ a{
     color: white;
     background-image:linear-gradient(tomato, orange);
     border-radius: 5px;
+    cursor: pointer;
 }
 .bg-dream-banner{
-    background-image: url(images/dream-bg);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     background-position-y:300px;
     
 }
-
+.experience-section{
+   /* background-color: plum; */
+}
+.ex-heading{
+    margin-left: 5%;
+    margin-top: 7%;
+}
+.orange{
+    color: orange;
+}
+.shadow{
+    width: 40%;
+    margin: 4%;
+    background-color: rgb(238, 231, 231);
+    box-shadow: 10px 5px 50px gray;
+}
+footer{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-bottom: 20px;
+    /* background-color:plum ; */
+}
