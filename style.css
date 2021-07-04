@@ -16,8 +16,6 @@ span{
 section{
    
     display: flex;
-    /* margin-top: 0; */
-    /* margin-bottom: 20px; */
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     /* background-color: plum; */
@@ -42,5 +40,12 @@ a{
     color: white;
     background-image:linear-gradient(tomato, orange);
     border-radius: 5px;
+}
+.bg-dream-banner{
+    background-image: url(images/dream-bg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y:300px;
+    
 }
 
